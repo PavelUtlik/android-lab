@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Styles_localization</string>
+    <string name="title">Welcome to app</string>
+    <string name="first_field">Username</string>
+    <string name="second_field">Password</string>
+    <string name="go_button">Go</string>
+
+</resources>

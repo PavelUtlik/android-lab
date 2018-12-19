@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Стили, локализация</string>
+    <string name="title">Добро пожаловать в приложение</string>
+    <string name="first_field">Никнейм</string>
+    <string name="second_field">Пароль</string>
+    <string name="go_button">Начать</string>
+
+</resources>
